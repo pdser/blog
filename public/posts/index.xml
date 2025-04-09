@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - My New Hugo Site test test</title>
-        <link>https://pdser.github.io/posts/</link>
+        <link>https://pdser.github.io/blog/posts/</link>
         <description>All Posts | My New Hugo Site test test</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Apr 2025 17:02:12 &#43;1200</lastBuildDate><atom:link href="https://pdser.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Apr 2025 17:02:12 &#43;1200</lastBuildDate><atom:link href="https://pdser.github.io/blog/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Hello World</title>
-    <link>https://pdser.github.io/posts/hello-world/</link>
+    <link>https://pdser.github.io/blog/posts/hello-world/</link>
     <pubDate>Wed, 09 Apr 2025 12:55:33 &#43;1200</pubDate>
     <author>xxxx</author>
-    <guid>https://pdser.github.io/posts/hello-world/</guid>
+    <guid>https://pdser.github.io/blog/posts/hello-world/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
