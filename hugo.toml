@@ -1,4 +1,4 @@
-baseURL = 'https://pdser.github.io/'
+baseURL = 'https://pdser.github.io/blog'
 languageCode = 'en-us'
 title = 'My New Hugo Site test test'
 theme = "loveit"
