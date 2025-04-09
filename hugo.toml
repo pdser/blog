@@ -1,6 +1,6 @@
 baseURL = 'https://pdser.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Hugo Site test'
 theme = "loveit"
 
 
